@@ -1,4 +1,4 @@
-A matching kitty theme for the (nvim-noirbuddy)[https://github.com/jesseleite/nvim-noirbuddy].
+A matching kitty theme for the [nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy).
 
 # Installation
 
